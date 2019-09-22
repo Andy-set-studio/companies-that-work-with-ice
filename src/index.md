@@ -3,7 +3,7 @@ layout: 'layouts/base.njk'
 title: 'Companies that work with ICE' 
 ---
 
-This is an open source list, that [you can contribute to, here](https://github.com/hankchizljaw/companies-that-work-with-ice).
+This is an open source list that [you can contribute to, here](https://github.com/hankchizljaw/companies-that-work-with-ice).
 
 You can read more details about these contracts on [Vox Recode](https://www.vox.com/recode/2019/7/30/20728147/tech-company-ice-contracts-foia-microsoft-palantir-concur-dell).
 
