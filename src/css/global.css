@@ -45,6 +45,10 @@ h2 {
   font-weight: 600;
 }
 
+ul {
+  column-count: 2;
+}
+
 footer {
   padding: 2rem 0;
   font-size: 0.9rem;
