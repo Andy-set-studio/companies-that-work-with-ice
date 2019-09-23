@@ -20,7 +20,6 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Blackstone Technology
 - Blue Canopy Group
 - Blue Tech
-- Blue Tech Inc
 - Booz Allen Hamilton
 - C & C International Computers & Consultants
 - Chef
