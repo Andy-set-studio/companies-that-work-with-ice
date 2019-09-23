@@ -46,7 +46,18 @@ h2 {
 }
 
 ul {
-  column-count: 2;
+  padding-left: 1em;
+}
+
+@media(min-width:32em){
+  ul {
+    column-count: 2;
+    column-gap: 40px;
+  }
+}
+
+li + li {
+  margin-top: .5em;
 }
 
 footer {
