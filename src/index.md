@@ -9,82 +9,76 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 
 ## The Companies
 
+- 360 It Integrated Solutions
+- Actionable Intelligence Technologies
+- Acuity
+- Advanced Technologies And Laboratories
+- Akira
+- Alvarez & Associates
 - Amazon
-- Chef
-- Deloitte Gov
-- Enterprise
-- Microsoft (Azure)
-- Ogilvy
-- Palantir
-- Wayfair
-- Envisage Technologies Corporation
-- Strategic Enterprise Solutions
-- Mlinqs
-- Knight Point Systems
 - Anacapa Micro Products
 - Blackstone Technology
-- Westwind Team
-- DKW Communications
-- Govplace
-- Escgov
-- Blue Tech
-- Acuity
-- Mythics
-- Inserso
-- Trofholz
-- Akira
-- Telco Solutions
-- Indev
-- Four Points Technology
-- Concur
-- Valytics
-- Integrityone
-- Neostek
-- Pyramid Systems
 - Blue Canopy Group
-- Sevatec
-- Advanced Technologies And Laboratories
-- Deloitte Consulting
-- Citizant
-- Xl Associates 
-- Visionary Integration Professionals
-- Strategic Enterprise Solutions
-- Microsoft Corporation Sitz
-- T-Rex Solutions
-- Eclinicalworks
-- Customer Value Partners
-- Optech
-- Iron Bow Technologies
-- MCP Computer Products
-- New Tech Solutions
+- Blue Tech
 - Blue Tech Inc
-- Anacapa Micro Products
-- Four Points Technology
-- C & C International Computers & Consultants
-- Wildflower International
-- Alvarez & Associates
-- Dell
-- FS Vets
-- Impres Technology Solutions
-- FCN
-- Actionable Intelligence Technologies
-- Panamerica Computers
-- Anacapa Micro Products
-- Govplace
 - Booz Allen Hamilton
-- JSI Telecom
-- Wexler Technical Solutions
-- Xrad Tele-Services
-- Project Performance Company
-- Procentrix
+- C & C International Computers & Consultants
+- Chef
+- Citizant
 - Clearavenue
-- Acuity
-- Tsymmetry
-- Pen-Link
-- Venture Netcomm
-- Qbase-Mcneil Integrated Solutions
-- Tri-Cor Industries
-- Excella Consulting
-- General Services Administration
-- 360 It Integrated Solutions
+- Concur
+- Customer Value Partners
+- Dell
+- Deloitte Consulting
+- Deloitte Gov
 - Dev Technology Group
+- DKW Communications
+- Eclinicalworks
+- Enterprise
+- Envisage Technologies Corporation
+- Escgov
+- Excella Consulting
+- FCN
+- Four Points Technology
+- FS Vets
+- General Services Administration
+- Govplace
+- Impres Technology Solutions
+- Indev
+- Inserso
+- Integrityone
+- Iron Bow Technologies
+- JSI Telecom
+- Knight Point Systems
+- MCP Computer Products
+- Microsoft (Azure)
+- Microsoft Corporation Sitz
+- Mlinqs
+- Mythics
+- Neostek
+- New Tech Solutions
+- Ogilvy
+- Optech
+- Palantir
+- Panamerica Computers
+- Pen-Link
+- Procentrix
+- Project Performance Company
+- Pyramid Systems
+- Qbase-Mcneil Integrated Solutions
+- Sevatec
+- Strategic Enterprise Solutions
+- T-Rex Solutions
+- Telco Solutions
+- Tri-Cor Industries
+- Trofholz
+- Tsymmetry
+- Valytics
+- Venture Netcomm
+- Visionary Integration Professionals
+- Wayfair
+- Westwind Team
+- Wexler Technical Solutions
+- Wildflower International
+- Xl Associates
+- Xrad Tele-Services
