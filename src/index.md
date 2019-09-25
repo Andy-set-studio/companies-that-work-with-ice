@@ -65,6 +65,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Pyramid Systems
 - Qbase-Mcneil Integrated Solutions
 - Sevatec
+- Splunk
 - Strategic Enterprise Solutions
 - T-Rex Solutions
 - Telco Solutions
