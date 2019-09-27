@@ -11,7 +11,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 
 - 360 It Integrated Solutions
 - Actionable Intelligence Technologies
-- Acuity
+- Acuity, Inc.
 - Advanced Technologies And Laboratories
 - Akira
 - Alvarez & Associates
