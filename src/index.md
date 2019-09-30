@@ -22,9 +22,11 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Blue Tech
 - Booz Allen Hamilton
 - C & C International Computers & Consultants
+- Caliburn International
 - Chef
 - Citizant
 - Clearavenue
+- Comprehensive Health Services
 - Concur
 - Customer Value Partners
 - Dell
