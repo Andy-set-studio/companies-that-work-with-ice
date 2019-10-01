@@ -12,6 +12,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - 360 It Integrated Solutions
 - Actionable Intelligence Technologies
 - Acuity, Inc.
+- [Adobe](https://www.usaspending.gov/#/award/68418194)
 - Advanced Technologies And Laboratories
 - Akira
 - Alvarez & Associates
@@ -35,6 +36,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Dev Technology Group
 - DKW Communications
 - Eclinicalworks
+- [Elastic](https://www.usaspending.gov/#/award/23851227)
 - Enterprise
 - Envisage Technologies Corporation
 - Escgov
@@ -48,17 +50,20 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Inserso
 - Integrityone
 - Iron Bow Technologies
+- Jamf [1](https://www.usaspending.gov/#/award/66966931), [2](https://www.usaspending.gov/#/award/83642945)
 - JSI Telecom
 - Knight Point Systems
 - MCP Computer Products
 - Microsoft (Azure)
 - Microsoft Corporation Sitz
 - Mlinqs
+- [MongoDB](https://www.usaspending.gov/#/award/23850856)
 - Mythics
 - Neostek
 - New Tech Solutions
 - Ogilvy
 - Optech
+- [Oracle](https://www.usaspending.gov/#/award/68790978)
 - Palantir
 - Panamerica Computers
 - Pen-Link
@@ -66,8 +71,9 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Project Performance Company
 - Pyramid Systems
 - Qbase-Mcneil Integrated Solutions
+- [ServiceNow](https://www.usaspending.gov/#/award/68335553)
 - Sevatec
-- Splunk
+- [Splunk](https://www.usaspending.gov/#/award/83973448)
 - Strategic Enterprise Solutions
 - T-Rex Solutions
 - Telco Solutions
