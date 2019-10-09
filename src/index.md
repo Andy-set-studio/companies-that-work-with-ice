@@ -1,6 +1,6 @@
 ---
-layout: 'layouts/base.njk'
-title: 'Companies that work with ICE' 
+layout: "layouts/base.njk"
+title: "Companies that work with ICE"
 ---
 
 This is an open source list that [you can contribute to, here](https://github.com/hankchizljaw/companies-that-work-with-ice).
@@ -10,83 +10,182 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 ## The Companies
 
 - 360 It Integrated Solutions
+- APL Access & Security
+- AT&T Mobility
+- Accenture Federal Services
 - Actionable Intelligence Technologies
 - Acuity, Inc.
 - [Adobe](https://www.usaspending.gov/#/award/68418194)
-- Advanced Technologies And Laboratories
-- Akira
+- Advanced Technologies And Laboratories (Atl) International
+- Advantage Technologies
+- Akira Technologies Inc
+- Allied Telecom Group
 - Alvarez & Associates
 - Amazon
+- Amped Software
 - Anacapa Micro Products
+- Annams Systems Corporation
+- Avaya Federal Solutions
+- Bcs Systems
+- Beacon Telecom Inc
+- Berla Corporation
+- Bizflow Corp.
 - Blackstone Technology
 - Blue Canopy Group
 - Blue Tech
 - Booz Allen Hamilton
 - C & C International Computers & Consultants
+- CSRA
 - Caliburn International
+- Callyo 2009 Corp.
+- Cambridge International Systems
+- Carahsoft Technology Corp.
+- Cdw Government
+- Cellebrite
 - Chef
 - Citizant
 - Clearavenue
+- Comcast Business Communications
 - Comprehensive Health Services
-- Concur
+- Computer Projects Of Illinois
+- Comtel Systems Technology Inc
+- Concur Technologies
+- Copper River Enterprise Services
+- Costcontrol Usa
 - Customer Value Partners
-- Dell
+- Customs And Border Protection
+- DKW Communications
+- Defense Point Security
+- Dell Federal Systems L.P.
 - Deloitte Consulting
 - Deloitte Gov
+- Department Of State Diplomatic Telecommunications Service Program Office
+- Designsmith Ltd
 - Dev Technology Group
-- DKW Communications
+- Dialtoneservices L.P.
+- DLT Solutions
 - Eclinicalworks
+- Ecs Federal
 - [Elastic](https://www.usaspending.gov/#/award/23851227)
-- Enterprise
+- Emergent
+- Enterprise Services Llc
 - Envisage Technologies Corporation
+- Equinix
 - Escgov
 - Excella Consulting
+- Executive Information Systems
 - FCN
+- Federal Defense Solutions
+- Fedstore Corporation
+- Feeney Wireless
+- Fileonq
+- First Federal Corporation
+- Forrester Research
 - Four Points Technology
+- Fronteo Government Services Inc
+- FS Partners
 - FS Vets
 - [GitHub](https://drive.google.com/file/d/1ljH74APGOTVl_dxs-H_f5M4YuvMUBfdq/view)
+- Getty Images (US) Inc
+- Go To Group Inc The
+- Government Acquisitions
+- Government Marketing And Procurement
 - Govplace
+- Green It Systems Group
+- GTSI Corp.
+- Haivision Network Video
+- Hawaiian Telcom Services Company Inc
+- Hrworx
+- Hubstream
+- Igov.Com
+- Immixgroup
+- Immixtechnology
 - Impres Technology Solutions
 - Indev
+- Inforeliance Corporation
+- Information Analysis Incorporated
 - Inserso
+- Insight Public Sector
+- Integration Technologies Group
 - Integrityone
 - Iron Bow Technologies
-- Jamf [1](https://www.usaspending.gov/#/award/66966931), [2](https://www.usaspending.gov/#/award/83642945)
 - JSI Telecom
+- Jamf [1](https://www.usaspending.gov/#/award/66966931), [2](https://www.usaspending.gov/#ward/83642945)
+- Jetico Oy
+- John Wiley & Sons
+- Kalos
 - Knight Point Systems
 - MCP Computer Products
+- Marinus Analytics
 - Microsoft (Azure)
 - Microsoft Corporation Sitz
+- Missing Link Communications
 - Mlinqs
 - [MongoDB](https://www.usaspending.gov/#/award/23850856)
 - Mythics
-- Neostek
-- New Tech Solutions
+- N2Grate Government Technology Solutions
+- National Cyber-Forensics And Training Alliance Limited.
+- Neostek Inc
+- Netscout Systems
+- New Tech Solutions Inc
 - Ogilvy
 - Optech
 - [Oracle](https://www.usaspending.gov/#/award/68790978)
-- Palantir
+- Packet Forensics
+- Palantir Technologies
+- Palantir USG
 - Panamerica Computers
+- Patriot Comm
 - Pen-Link
+- Pg Public Services
+- Phacil
+- Phonoscope Inc
+- Pitney Bowes
+- Pn Automation
 - Procentrix
 - Project Performance Company
 - Pyramid Systems
 - Qbase-Mcneil Integrated Solutions
+- Red River Computer Co.
+- Rstudio
+- SNMP Research International Inc
+- Safer Society Group Sweden Ab
+- Savantage Financial Services
 - [ServiceNow](https://www.usaspending.gov/#/award/68335553)
 - Sevatec
+- Signalscape
+- Smartystreets
+- Snap (Va. based company not the maker of Snapchat)
 - [Splunk](https://www.usaspending.gov/#/award/83973448)
+- Stamps.Com
 - Strategic Enterprise Solutions
+- Swish Data Corporation
 - T-Rex Solutions
+- Techlaw
+- Technical And Project Engineering
+- Tecolote Research
 - Telco Solutions
+- Thundercat Technology
+- Treefort Inc
 - Tri-Cor Industries
-- Trofholz
+- Trofholz Technologies
 - Tsymmetry
+- US Bancorp
+- Unicom Government
+- Unistar-Sparco Computers
+- V3 Gate Team Llp
 - Valytics
 - Venture Netcomm
+- Veteran Technology Partners Ii
+- Videntifier Technologies Ehf
 - Visionary Integration Professionals
+- Volexity
+- Vound Colorado Ltd.
 - Wayfair
 - Westwind Team
 - Wexler Technical Solutions
 - Wildflower International
 - Xl Associates
 - Xrad Tele-Services
+- Young Scale Co.
+- Zayo Professional Services
