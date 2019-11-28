@@ -47,7 +47,7 @@ You can read more details about these contracts on [Vox Recode](https://www.vox.
 - Clearavenue
 - Comcast Business Communications
 - Comprehensive Health Services
-- Computer Projects Of Illinois
+- Computer Projects Of Illinois (AKA [OpenFox](https://www.openfox.com/))
 - Comtel Systems Technology Inc
 - Concur Technologies
 - Copper River Enterprise Services
